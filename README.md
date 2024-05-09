@@ -51,7 +51,7 @@ Met behulp van de kennis uit 'Webtechnologie intro' probeer je deze website zo g
  - Voor elke klant worden volgende zaken getoond:
     - een grote foto
     - voor- en achternaam
-    - land
+    - andl
     - hun favoriete merk van koffiebonen
     - e-mail
 
