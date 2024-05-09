@@ -18,6 +18,8 @@ Met behulp van de kennis uit 'Webtechnologie intro' probeer je deze website zo g
  - Hernoem je bestand naar `shop.html`.
  - Bekijk de printscreens goed en werk de pagina zo verder af.
 
+ [x] DONE
+
 ### recepten & contact
 
  - Deze pagina's werden gemaakt tijdens labo 9. Gebruik je werk uit dit labo als vertrekpunt (kopieer de map met de oefeningen van dat labo naar dit project). 
