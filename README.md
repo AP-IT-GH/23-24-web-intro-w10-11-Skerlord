@@ -14,27 +14,27 @@ Met behulp van de kennis uit 'Webtechnologie intro' probeer je deze website zo g
 
 ### shop
 
- - Deze pagina werd gemaakt tijdens labo 5. Gebruik je werk uit dit labo als vertrekpunt (kopieer de map met de oefening van dat labo naar dit project). 
- - Hernoem je bestand naar `shop.html`.
- - Bekijk de printscreens goed en werk de pagina zo verder af.
+[x] Deze pagina werd gemaakt tijdens labo 5. Gebruik je werk uit dit labo als vertrekpunt (kopieer de map met de oefening van dat labo naar dit project). 
+[x] Hernoem je bestand naar `shop.html`.
+[x] Bekijk de printscreens goed en werk de pagina zo verder af.
 
- [x] DONE
+ 
 
 ### recepten & contact
 
- - Deze pagina's werden gemaakt tijdens labo 9. Gebruik je werk uit dit labo als vertrekpunt (kopieer de map met de oefeningen van dat labo naar dit project). 
- - Hernoem je HTML-bestanden naar `recepten.html` en `contact.html`.
- - Kopieer ook de JavaScript-bestanden uit labo 9.
- - Bekijk de printscreens goed en werk de pagina zo verder af.
- - Plaats ook eigen icoontjes op de Leaflet-kaart. 
- - Pas de Leaflet-kaart verder aan zoals op de printscreens.
+[x] Deze pagina's werden gemaakt tijdens labo 9. Gebruik je werk uit dit labo als vertrekpunt (kopieer de map met de oefeningen van dat labo naar dit project). 
+[x] Hernoem je HTML-bestanden naar `recepten.html` en `contact.html`.
+[x] Kopieer ook de JavaScript-bestanden uit labo 9.
+[x] Bekijk de printscreens goed en werk de pagina zo verder af.
+[x] Plaats ook eigen icoontjes op de Leaflet-kaart. 
+[x] Pas de Leaflet-kaart verder aan zoals op de printscreens.
 
 ### home
 
- - Maak een nieuwe startpagina (`index.html`) met de "look-and-feel" van de voorgaande pagina's.
- - Vervolledig de navigatie met de correctie benamingen en bijhorende links op basis van de printscreen, zo ook op de andere pagina's.
- - Zet onderaan de home-pagina een Bootstrap-slider met 3 foto's naar keuze uit de map images.
- - Vermeld telkens de fotograaf van de foto (zoals in de printscreens).
+[x] Maak een nieuwe startpagina (`index.html`) met de "look-and-feel" van de voorgaande pagina's.
+[x] Vervolledig de navigatie met de correctie benamingen en bijhorende links op basis van de printscreen, zo ook op de andere pagina's.
+[x] Zet onderaan de home-pagina een Bootstrap-slider met 3 foto's naar keuze uit de map images.
+[x] Vermeld telkens de fotograaf van de foto (zoals in de printscreens).
 
 ### klanten
 
